@@ -75,3 +75,13 @@ http://localhost:5173
 - Token JWT digunakan hanya untuk simulasi autentikasi, bukan production-ready security.
 - Data penjualan berasal dari file CSV dan dianggap bersih atau minimal preprocessing.
 - Model Machine Learning sudah dilatih sebelumnya atau menggunakan model sederhana.
+
+## Screenshot UI
+1. Login Page
+![image](./images/login1.png)
+2. Sales Data Page
+![image](./images/sales.png)
+1. Predict Page
+![image](./images/predict.png)
+1. Predict Result Page
+![image](./images/predict-result.png)
